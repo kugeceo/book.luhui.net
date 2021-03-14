@@ -1,6 +1,8 @@
-我的网站是：[siberiawolf](http://siberiawolf.com)。
+我的网站是：[鲁虺文化网](http://luhui.net)。
 
-本站使用的是[BeiYuu.com](http://beiyuu.com)的源码，我做了部分修改和一些优化。
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8e86c7d-3a7e-4421-b889-ac9b55b2ed4e/deploy-status)](https://app.netlify.com/sites/cnbook/deploys)
+
+本站使用的是[siberiawolf](http://siberiawolf.com)。[BeiYuu.com](http://beiyuu.com)的源码，我做了部分修改和一些优化。
 如果你也想使用Github Pages，请看[使用Github Pages建独立博客](http://siberiawolf.com/github-pages/)
 
 # 推荐阅读
